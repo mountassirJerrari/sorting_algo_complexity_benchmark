@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698858892 source:c:\users\router\documents\c\sorting_algorithms\sorting_algorithms.c
+	"sorting_algorithms.h"
+
+1698858971 c:\users\router\documents\c\sorting_algorithms\sorting_algorithms.h
+
+1698878388 source:c:\users\router\documents\c\sorting_algorithms\helper.c
+	<time.h>
+	"helper.h"
+
+1698878453 c:\users\router\documents\c\sorting_algorithms\helper.h
+
+1698919073 source:c:\users\router\documents\c\sorting_algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"sorting_algorithms.h"
+	"helper.h"
+
